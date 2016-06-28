@@ -1,0 +1,15 @@
+{
+  "name": "geneseeq-visual",
+  "version": "1.0.0",
+  "description": "geneseeq data visualization pilot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miushock@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^3.5.17",
+    "mongodb": "^2.1.18"
+  }
+}

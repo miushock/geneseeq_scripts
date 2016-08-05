@@ -1,0 +1,7 @@
+ID,CODE,ORDER_CODE,MEDICAL_NUMBER,MUTANT_GENES,OTHER_NAME,PARTNER_GENES,PARTNER_GENES_NAME,FUSION_PRODUCT,MUTANT_GENE_SCRIPT,PARTNER_SCRIPT,MUTANT_GENE_POINT,PARTNER_POINT,MUTATION_CLASS,MUTATIN_ABUNDANCE,RELATED_MUTATION,RELATED_CHEMOTHERAPY
+编号,样本号,订单号,电子病历号,突变基因,突变基因其他名称,伙伴基因,伙伴基因其他名称,融合产物,突变基因转录本,伙伴基因转录本,突变基因染色体断裂位点,伙伴基因染色体断裂位点,突变分类,突变丰度,靶向相关突变分级,化疗相关突变分级
+lala,lalala,muahah
+lala,lalala,muahah
+lala,lalala,muahah
+lala,lalala,muahah
+lala,lalala,muahah
